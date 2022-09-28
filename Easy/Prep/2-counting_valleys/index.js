@@ -7,8 +7,8 @@ function countingValleys(steps, path) {
       //'traverse' for the integer that will chage depending on the 'path' array is going to return 'D' or 'U'
       //Every time the 'traverse' integer goes from -1 to 0, then add 1 to the 'valleys' variable. 
   
-  let valleys = 0;
-  let traverse = 0;
+  let valleys = 0
+  let traverse = 0
   let pathArr = []
   
   
